@@ -1,0 +1,14 @@
+<application>
+  <component name="IntentionManagerSettings">
+    <ignoreAction name="CoffeeScript/Replace Double-Quoted String with Single-Quoted String" />
+    <ignoreAction name="CoffeeScript/Replace Single-Quoted String with Double-Quoted String" />
+    <ignoreAction name="Dart/Quick assist powered by the Dart Analysis Server" />
+    <ignoreAction name="Flow JS/Specify variable type explicitly" />
+    <ignoreAction name="Javascript/Language Injection/Annotate injection with comment" />
+    <ignoreAction name="Javascript/Language Injection/Don't format injected content" />
+    <ignoreAction name="Language Injection/Edit Injected Fragment" />
+    <ignoreAction name="Language Injection/Edit Injection Settings" />
+    <ignoreAction name="Language Injection/Inject language or reference" />
+    <ignoreAction name="Language Injection/Un-inject Language/Reference" />
+  </component>
+</application>
