@@ -81,7 +81,6 @@
   <template name="a-bootstrap" value="import { platformBrowserDynamic } from '@angular/platform-browser-dynamic';&#10;//import { enableProdMode } from '@angular/core';&#10;&#10;//enableProdMode(); // Uncomment for production&#10;import { $App$Module } from './$app$.module';&#10;&#10;platformBrowserDynamic().bootstrapModule($App$Module);&#10;$END$" description="Angular bootstrap" toReformat="true" toShortenFQNames="true" deactivated="true">
     <variable name="App" expression="" defaultValue="&quot;App&quot;" alwaysStopAt="true" />
     <variable name="app" expression="lowercaseAndDash(App)" defaultValue="" alwaysStopAt="true" />
-    <context />
   </template>
   <template name="a-guard-can-activate" value="import { Injectable } from '@angular/core';&#10;import { ActivatedRouteSnapshot, CanActivate, RouterStateSnapshot } from '@angular/router';&#10;&#10;@Injectable()&#10;export class $Name$Guard implements CanActivate {&#10; constructor() { }&#10;&#10; canActivate(route: ActivatedRouteSnapshot, state: RouterStateSnapshot) {&#10;  return true;$END$&#10; }&#10;}" description="Angular CanActivate guard" toReformat="true" toShortenFQNames="true" deactivated="true">
     <variable name="Name" expression="" defaultValue="&quot;Name&quot;" alwaysStopAt="true" />
