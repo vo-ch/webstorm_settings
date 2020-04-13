@@ -1,0 +1,49 @@
+<keymap version="1" name="Default copy" parent="$default">
+  <action id="ActivateFavoritesToolWindow" />
+  <action id="ActivateTypeScriptToolWindow">
+    <keyboard-shortcut first-keystroke="alt 2" />
+  </action>
+  <action id="ChangesView.UnshelveSilently" />
+  <action id="EditorDown">
+    <keyboard-shortcut first-keystroke="down" />
+    <keyboard-shortcut first-keystroke="alt j" />
+  </action>
+  <action id="EditorUp">
+    <keyboard-shortcut first-keystroke="up" />
+    <keyboard-shortcut first-keystroke="alt k" />
+  </action>
+  <action id="ExpressionTypeInfo" />
+  <action id="GotoAction">
+    <keyboard-shortcut first-keystroke="shift ctrl a" />
+    <keyboard-shortcut first-keystroke="shift ctrl p" />
+  </action>
+  <action id="GotoFile">
+    <keyboard-shortcut first-keystroke="shift ctrl n" />
+    <keyboard-shortcut first-keystroke="ctrl p" />
+  </action>
+  <action id="GotoSuperMethod">
+    <keyboard-shortcut first-keystroke="ctrl alt u" />
+  </action>
+  <action id="LocateInSolutionView">
+    <keyboard-shortcut first-keystroke="shift alt l" />
+  </action>
+  <action id="ParameterInfo">
+    <keyboard-shortcut first-keystroke="shift alt d" />
+  </action>
+  <action id="QuickJavaDoc">
+    <keyboard-shortcut first-keystroke="ctrl q" />
+    <mouse-shortcut keystroke="alt button2" />
+    <keyboard-shortcut first-keystroke="alt d" />
+  </action>
+  <action id="Replace" />
+  <action id="RiderUnitTestQuickListPopupAction" />
+  <action id="RiderUnitTestRunContextTwAction">
+    <keyboard-shortcut first-keystroke="shift enter" />
+  </action>
+  <action id="SelectNextOccurrence" />
+  <action id="ShowUmlDiagramPopup" />
+  <action id="ViewInAssemblyExplorer">
+    <keyboard-shortcut first-keystroke="shift alt k" />
+  </action>
+  <action id="context.load" />
+</keymap>
