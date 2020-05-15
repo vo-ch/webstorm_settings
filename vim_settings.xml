@@ -26,6 +26,9 @@
       <shortcut-conflict owner="vim">
         <text>ctrl pressed H</text>
       </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed C</text>
+      </shortcut-conflict>
     </shortcut-conflicts>
   </component>
   <component name="VimMarksSettings">
@@ -37,6 +40,9 @@
         <mark key="]" line="9" column="10" />
         <mark key="." line="9" column="9" />
         <mark key="^" line="9" column="10" />
+      </file>
+      <file name="C:/projects/ccms-ui/src/models/User.ts" timestamp="1586814347224">
+        <mark key="'" line="22" column="20" />
       </file>
       <file name="C:/projects/ccms-ui/src/stores/AuthStore.ts" timestamp="1586814281923">
         <mark key="'" line="253" column="16" />
@@ -54,6 +60,7 @@
       <jump line="7" column="9" filename="C:/projects/ccms-ui/src/stores/AuthStore.ts" />
       <jump line="13" column="17" filename="C:/projects/ccms-ui/src/services/AuthService.ts" />
       <jump line="253" column="16" filename="C:/projects/ccms-ui/src/stores/AuthStore.ts" />
+      <jump line="22" column="20" filename="C:/projects/ccms-ui/src/models/User.ts" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
